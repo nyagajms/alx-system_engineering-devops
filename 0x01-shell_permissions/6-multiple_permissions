@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd ug+x,c+r hello
+chomd ug+x,o+r hello
